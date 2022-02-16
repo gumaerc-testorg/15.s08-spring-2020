@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s08-fintech-shaping-the-financial-world-spring-2020/5c05b00cff763adaca20bd336ce56e60_MIT15-S08S20_class4.pdf
+file: /media/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/5c05b00cff763adaca20bd336ce56e60_MIT15-S08S20_class4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Class 4: Open API & Marketing Channels'
+parent_type: CourseSection
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 4: Open APIs & Marketing Channels'
 uid: 5c05b00c-ff76-3ada-ca20-bd336ce56e60

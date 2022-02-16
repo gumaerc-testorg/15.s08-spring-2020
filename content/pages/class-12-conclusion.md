@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 12: Conclusion'
 uid: f3d1b8ea-3adf-ed14-1a72-a9f45d5dfb7f
 ---

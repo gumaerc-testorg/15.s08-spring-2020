@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 5: Blockchain Technology & Cryptocurrencies'
 uid: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
 ---

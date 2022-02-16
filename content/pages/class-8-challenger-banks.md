@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 8: Challenger Banks'
 uid: 25177263-aec8-b8ce-4bb8-d9580215f10d
 ---

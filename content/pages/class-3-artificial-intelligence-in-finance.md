@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 3: Artificial Intelligence in Finance'
 uid: 08f981c2-b337-4ef0-86d4-2ff9f9fee8c9
 ---

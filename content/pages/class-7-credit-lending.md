@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 7: Credit & Lending'
 uid: fbd7d155-5944-ed52-8bfd-703d1de98571
 ---

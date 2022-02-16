@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s08-fintech-shaping-the-financial-world-spring-2020/a7ad7d9aee74229d2baa197892d04b26_uHUA6M1OEwk.srt
+file: /media/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/a7ad7d9aee74229d2baa197892d04b26_uHUA6M1OEwk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a7ad7d9a-ee74-229d-2baa-197892d04b26

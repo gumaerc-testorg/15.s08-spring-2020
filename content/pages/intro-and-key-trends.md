@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 1: Intro and Key Technological Trends Affecting Financial Services'
 uid: d1137a3f-00d1-4edf-8ae8-2354d5a6780e
 ---

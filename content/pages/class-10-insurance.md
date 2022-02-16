@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 10: Insurance'
 uid: 5fc888a5-8aca-c5ba-e72f-e1b23d480b16
 ---

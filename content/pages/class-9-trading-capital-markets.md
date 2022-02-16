@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 9: Trading & Capital Markets'
 uid: ce6ffa51-c77a-d7f6-6d44-cb2255794946
 ---

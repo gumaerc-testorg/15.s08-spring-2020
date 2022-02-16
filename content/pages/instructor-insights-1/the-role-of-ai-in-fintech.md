@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 title: The Role of AI in FinTech
 uid: 2fd516e6-5f34-a33c-3940-82ebc8884456

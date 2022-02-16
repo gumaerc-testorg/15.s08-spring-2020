@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 4: Open API & Marketing Channels'
 uid: 5d8d0367-2acd-ddb3-3d4a-45c1bb21491c
 ---

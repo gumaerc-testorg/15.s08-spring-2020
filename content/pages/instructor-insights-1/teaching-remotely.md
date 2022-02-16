@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 title: Teaching Remotely
 uid: d5f6018e-0fcd-9924-9fe1-e9bbeb88c237

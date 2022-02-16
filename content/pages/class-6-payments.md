@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 6: Payments'
 uid: f7c0b962-1c85-ccf9-045d-502e6a3e74f7
 ---

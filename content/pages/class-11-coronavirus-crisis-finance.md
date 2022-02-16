@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 11: Coronavirus Crisis & Finance'
 uid: 58b53ba3-354b-c393-e707-10965ee04c93
 ---

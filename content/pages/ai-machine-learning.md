@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 2: Artificial Intelligence, Machine Learning, and Deep Learning'
 uid: 54a2f116-5743-edf7-42dd-298e699e2192
 ---
