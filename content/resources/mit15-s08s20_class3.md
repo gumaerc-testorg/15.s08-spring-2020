@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 3: Artificial Intelligence in Finance'
 parent_type: CourseSection
+parent_uid: 08f981c2-b337-4ef0-86d4-2ff9f9fee8c9
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 3: Artificial Intelligence in Finance'
 uid: 3a1a36bd-1ab2-b763-f367-267884672aff

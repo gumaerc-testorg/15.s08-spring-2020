@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 2: Artificial Intelligence, Machine Learning, and Deep Learning'
 parent_type: CourseSection
+parent_uid: 54a2f116-5743-edf7-42dd-298e699e2192
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 2: Artifical Intelligence & Machine Learning'
 uid: 88eccc78-ce41-c092-740c-99f49bf8fa7f

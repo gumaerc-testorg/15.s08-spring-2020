@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 9: Trading & Capital Markets'
 parent_type: CourseSection
+parent_uid: ce6ffa51-c77a-d7f6-6d44-cb2255794946
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 9: Trading & Capital Markets'
 uid: bb56a58d-58d8-80fa-be9c-d5c46700096a

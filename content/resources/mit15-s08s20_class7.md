@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 7: Credit & Lending'
 parent_type: CourseSection
+parent_uid: fbd7d155-5944-ed52-8bfd-703d1de98571
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 7: Credit & Lending'
 uid: bf6652b3-20e5-2519-2082-e047279ed17d

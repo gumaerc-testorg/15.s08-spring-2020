@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: The Role of AI in FinTech
 parent_type: CourseSection
+parent_uid: 2fd516e6-5f34-a33c-3940-82ebc8884456
 resourcetype: Image
 title: Capture.png
 uid: 5a35dd6f-d262-e37f-4b6e-94cdc91a6c27

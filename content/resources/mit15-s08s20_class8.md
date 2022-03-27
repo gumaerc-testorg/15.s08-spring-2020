@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 8: Challenger Banks'
 parent_type: CourseSection
+parent_uid: 25177263-aec8-b8ce-4bb8-d9580215f10d
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 8: Challenger Banks'
 uid: 5620d789-f6a0-66d7-1eeb-31ab8a3cea2d

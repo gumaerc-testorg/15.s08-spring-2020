@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 11: Coronavirus Crisis & Finance'
 parent_type: CourseSection
+parent_uid: 58b53ba3-354b-c393-e707-10965ee04c93
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 11: Coronavirus Crisis & Finance'
 uid: 2005a6d8-eeee-7b54-7461-b23ca37c4d06

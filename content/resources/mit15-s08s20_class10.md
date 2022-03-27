@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 10: Insurance'
 parent_type: CourseSection
+parent_uid: 5fc888a5-8aca-c5ba-e72f-e1b23d480b16
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 10: Insurance'
 uid: bfb9c36b-3cc2-dba0-0c1d-a0dbca4d11e0

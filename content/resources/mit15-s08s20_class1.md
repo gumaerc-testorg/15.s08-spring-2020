@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 1: Intro and Key Technological Trends Affecting Financial Services'
 parent_type: CourseSection
+parent_uid: d1137a3f-00d1-4edf-8ae8-2354d5a6780e
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 1: Intro and Key Technological '
 uid: 00e1e9bb-7125-a0fb-c4fb-c54cdd0463bf

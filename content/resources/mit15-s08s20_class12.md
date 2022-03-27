@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Class 12: Conclusion'
 parent_type: CourseSection
+parent_uid: f3d1b8ea-3adf-ed14-1a72-a9f45d5dfb7f
 resourcetype: Document
 title: 'MIT 15.S08 S20 Class 12: Conclusion'
 uid: f9eb9ff2-75d5-f7e1-0cb4-fba88ceae7c6
