@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the vide, lecture slides, readings, and study
+  questions for Class #2. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 2: Artificial Intelligence, Machine Learning, and Deep Learning'
@@ -11,7 +13,7 @@ uid: 54a2f116-5743-edf7-42dd-298e699e2192
 Lecture Slides
 --------------
 
-[Class 2 Lecture Slides: Artificial Intelligence, Machine Learning, and Deep Learning  (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class2)
+{{% resource_link 88eccc78-ce41-c092-740c-99f49bf8fa7f "Class 2 Lecture Slides: Artificial Intelligence, Machine Learning, and Deep Learning  (PDF)" %}}
 
 Readings
 --------

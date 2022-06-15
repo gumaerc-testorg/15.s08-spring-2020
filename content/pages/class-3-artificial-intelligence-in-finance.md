@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the video, lecture slides, readings, and study
+  questions about artificial intelligence in finance.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 3: Artificial Intelligence in Finance'
@@ -11,14 +13,14 @@ uid: 08f981c2-b337-4ef0-86d4-2ff9f9fee8c9
 Lecture Slides
 --------------
 
-[Class 3 Lecture Slides: Artificial Intelligence in Finance (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class3)
+{{% resource_link 3a1a36bd-1ab2-b763-f367-267884672aff "Class 3 Lecture Slides: Artificial Intelligence in Finance (PDF)" %}}
 
 Readings
 --------
 
 ‘[Artificial Intelligence Applications in Financial Services](https://www.oliverwyman.com/our-expertise/insights/2019/dec/artificial-intelligence-applications-in-financial-services.html)’ Oliver Wyman (December 2019) (Pages 11–30, Section on ‘How is AI Applied in Financial Services?’)
 
-‘![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Artificial Intelligence & Financial Services – Fall 2019 Report’ (PDF - 2.6MB)](https://www.mayerbrown.com/-/media/files/perspectives-events/publications/2019/10/mayer-brown--ai--financial-services-symposium--thought-leadership-articles--fall-2019.pdf) Mayer Brown (October 2019) (pages 3–13, Section on ‘AI and Big Data Regulatory Risks Under Banking and Consumer Financial Laws’)
+‘[Artificial Intelligence & Financial Services – Fall 2019 Report’ (PDF - 2.6MB)](https://www.mayerbrown.com/-/media/files/perspectives-events/publications/2019/10/mayer-brown--ai--financial-services-symposium--thought-leadership-articles--fall-2019.pdf) Mayer Brown (October 2019) (pages 3–13, Section on ‘AI and Big Data Regulatory Risks Under Banking and Consumer Financial Laws’)
 
 ‘[Fintech: Understanding AI Use in Financial Services](https://www.stlouisfed.org/on-the-economy/2019/april/fintech-understanding-ai-financial-services)’ Julie Stackhouse, Federal Reserve Bank of St. Louis (April 29, 2019)
 

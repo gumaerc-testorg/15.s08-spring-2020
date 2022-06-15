@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Prof. Gensler explains why one of the assignments in
+  15.S08 FinTech: Shaping the Financial World asks students to collaborate in writing
+  a memo to a CEO of a major corporation.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

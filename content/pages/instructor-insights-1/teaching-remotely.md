@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Prof. Gensler outlines the changes that were made for\
+  \ this iteration of 15.S08 in response to MIT\u2019s cancellation of in-person classes\
+  \ during the COVID-19 pandemic."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

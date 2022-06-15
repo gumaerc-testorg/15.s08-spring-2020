@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the lecture video, slides, readings, and study
+  questions on the topic of insurance. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 10: Insurance'
@@ -11,7 +13,7 @@ uid: 5fc888a5-8aca-c5ba-e72f-e1b23d480b16
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 10 Lecture Slides: Insurance (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class10)
+{{% resource_link bfb9c36b-3cc2-dba0-0c1d-a0dbca4d11e0 "Class 10 Lecture Slides: Insurance (PDF)" %}}
 
 Readings
 --------

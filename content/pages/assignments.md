@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides details about the assignments for the class.  The
+  class had 3 assignments: research paper, individual write-up, and class participation. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

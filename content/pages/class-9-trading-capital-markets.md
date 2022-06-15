@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the video, lecture slides, readings, and study
+  questions on the topic of trading and capital markets.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 9: Trading & Capital Markets'
@@ -11,7 +13,7 @@ uid: ce6ffa51-c77a-d7f6-6d44-cb2255794946
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 9 Lecture Slides: Trading and Capital Markets (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class9)
+{{% resource_link bb56a58d-58d8-80fa-be9c-d5c46700096a "Class 9 Lecture Slides: Trading and Capital Markets (PDF)" %}}
 
 Readings
 --------

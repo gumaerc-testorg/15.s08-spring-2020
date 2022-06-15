@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the lecture video, slides, readings, and study
+  questions on the topic of the coronavirus crisis and finance. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Class 11: Coronavirus Crisis & Finance'
@@ -11,7 +13,7 @@ uid: 58b53ba3-354b-c393-e707-10965ee04c93
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 11 Lecture Slides: The Coronavirus Crisis and Finance (PDF]({{< baseurl >}}/resources/mit15-s08s20_class11))
+{{% resource_link 2005a6d8-eeee-7b54-7461-b23ca37c4d06 "Class 11 Lecture Slides: The Coronavirus Crisis and Finance (PDF" %}})
 
 Readings
 --------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In this section, Professor Gary Gensler explains what FinTech is.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +17,7 @@ The term “FinTech,” which appeared in the last 20 years or so, can mean diff
 
 Technology has changed our day-to-day financial lives so much. Twenty years ago, the technology that was disrupting finance more than anything else was the internet, which allowed us to use our laptops and our desktops to gain cardless access to our bank accounts. Ten or fifteen years ago, the technologies that were disrupting finance the most were mobile phones and the cloud. Now we can wave a mobile phone with a QR code and move value, that which we call money. That which Plato and Aristotle called money was just a society's representation of something of value. But in the 21st century, we don't have even any physical representation. We don't even have a plastic card any longer; you can just wave your mobile phone and you move value, what we call money. So I teach _15.S08 FinTech: Shaping the Financial World_ from a broader view and try to prepare students with this concept so they're ready for the 2030s and the 2040s. What technologies then will be highly disruptive in finance?
 
-![The obverse and reverse of a silver coin, bearing a profile portrait and the image of a doglike animal.]({{< resource_file e065cb49-4fe6-1c76-b777-a811ea20b3eb >}})
+{{< resource e065cb49-4fe6-1c76-b777-a811ea20b3eb >}}
 
 Currency, such as the ancient Greek coin shown here, was the earliest form of FinTech. (Photo courtesy of the British Museum. License: CC BY-NC-SA.)
 
