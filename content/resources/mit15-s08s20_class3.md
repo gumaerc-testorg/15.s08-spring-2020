@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/3a1a36bd1ab2b763f367267884672aff_MIT15-S08S20_class3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Class 3: Artificial Intelligence in Finance'
 parent_type: CourseSection

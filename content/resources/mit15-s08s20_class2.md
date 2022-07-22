@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/88eccc78ce41c092740c99f49bf8fa7f_MIT15-S08S20_class2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Class 2: Artificial Intelligence, Machine Learning, and Deep Learning'
 parent_type: CourseSection

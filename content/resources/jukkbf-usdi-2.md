@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/17fbc0eeb5ac51ff85561edbfd88e751_JuKKBf-uSDI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
