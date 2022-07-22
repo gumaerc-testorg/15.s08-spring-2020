@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the video, lecture slides, readings, and study
+  questions for the class about payments. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 6: Payments'
 uid: f7c0b962-1c85-ccf9-045d-502e6a3e74f7
 ---
@@ -9,7 +13,7 @@ uid: f7c0b962-1c85-ccf9-045d-502e6a3e74f7
 Lecture Slides 
 ---------------
 
-[Class 6 Lecture Slides: Payments (PDF - 1MB)]({{< baseurl >}}/resources/mit15-s08s20_class6)
+{{% resource_link 94d9a16a-723a-f834-1e92-ad1eb76836a6 "Class 6 Lecture Slides: Payments (PDF - 1MB)" %}}
 
 Readings
 --------

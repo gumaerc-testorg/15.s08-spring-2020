@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the lecture video, slides, readings, and study
+  questions for the topic of Open APIs & Marketing Channels. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 4: Open API & Marketing Channels'
 uid: 5d8d0367-2acd-ddb3-3d4a-45c1bb21491c
 ---
@@ -9,7 +13,7 @@ uid: 5d8d0367-2acd-ddb3-3d4a-45c1bb21491c
 Lecture Slides
 --------------
 
-[Class 4 Lecture Slides: Open APIs & Marketing Channels (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class4)
+{{% resource_link 5c05b00c-ff76-3ada-ca20-bd336ce56e60 "Class 4 Lecture Slides: Open APIs & Marketing Channels (PDF)" %}}
 
 Readings
 --------

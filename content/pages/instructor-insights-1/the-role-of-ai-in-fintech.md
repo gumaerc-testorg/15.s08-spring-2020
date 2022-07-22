@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Prof. Gensler offers an overview of the role of artificial
+  intelligence in the finance sector.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 title: The Role of AI in FinTech
 uid: 2fd516e6-5f34-a33c-3940-82ebc8884456
@@ -9,7 +14,7 @@ uid: 2fd516e6-5f34-a33c-3940-82ebc8884456
 
 _In this section, Prof. Gensler offers an overview of the role of artificial intelligence in the finance sector_.
 
-![A view of the screen of a smartphone, showing an interaction between a user and a natural-language digital assistant.]({{< resource_file 5a35dd6f-d262-e37f-4b6e-94cdc91a6c27 >}})
+{{< resource 5a35dd6f-d262-e37f-4b6e-94cdc91a6c27 >}}
 
 Natural language processing has allowed the development of digital assistants that simplify online banking. (Photo © Bank of America. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use](/help/faq-fair-use).)
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the video, lecture slides, readi ngs, and study
+  questions for the topic of blockchain technology and cryptocurrencies. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 5: Blockchain Technology & Cryptocurrencies'
 uid: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
 ---
@@ -9,7 +13,7 @@ uid: 0a8d9cfc-ad5e-f39b-57a5-a8db9904080b
 Lecture Slides 
 ---------------
 
-[Class 5 Lecture Slides: Blockchain Technology & Cryptocurrencies (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class5)
+{{% resource_link 2fe764d9-b57e-1c9d-a32b-0ccdd42cf37b "Class 5 Lecture Slides: Blockchain Technology & Cryptocurrencies (PDF)" %}}
 
 Readings
 --------

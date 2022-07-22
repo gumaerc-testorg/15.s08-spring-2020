@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the video, lecture slides, readings, and study
+  questions on the topic of challenger banks. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 8: Challenger Banks'
 uid: 25177263-aec8-b8ce-4bb8-d9580215f10d
 ---
@@ -9,7 +13,7 @@ uid: 25177263-aec8-b8ce-4bb8-d9580215f10d
 Lecture Slides
 --------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class 8 Lecture Slides: Challenger Banks (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15-s08s20_class8)
+{{% resource_link 5620d789-f6a0-66d7-1eeb-31ab8a3cea2d "Class 8 Lecture Slides: Challenger Banks (PDF - 1.2MB)" %}}
 
 Readings
 --------

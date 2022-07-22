@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the video, lecture slides, and study questions
+  for the last class. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 12: Conclusion'
 uid: f3d1b8ea-3adf-ed14-1a72-a9f45d5dfb7f
 ---
@@ -9,7 +13,7 @@ uid: f3d1b8ea-3adf-ed14-1a72-a9f45d5dfb7f
 Lecture Slides
 --------------
 
-[Class 12 Lecture Slides: Conclusion (PDF)]({{< baseurl >}}/resources/mit15-s08s20_class12)
+{{% resource_link f9eb9ff2-75d5-f7e1-0cb4-fba88ceae7c6 "Class 12 Lecture Slides: Conclusion (PDF)" %}}
 
 Study Questions / Issues to Prepare
 -----------------------------------

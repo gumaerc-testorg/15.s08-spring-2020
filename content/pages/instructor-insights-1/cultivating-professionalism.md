@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Prof. Gensler discusses how he sees 15.S08 as an opportunity
+  to help his students cultivate the skills and habits they are likely to need in
+  their future careers.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 title: Cultivating Professionalism
 uid: 0b231366-57ca-bf22-21e6-79bc652e6888

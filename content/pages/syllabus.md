@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains information about the details and logistics of
+  the course. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 6bed2c3a-c8ab-6eac-87fd-bb7feed44f8e
 ---
@@ -236,4 +240,4 @@ Class Participation
 
 {{< tableclose >}}
 
-See the [Assignments]({{< baseurl >}}/pages/assignments) section for details about each requirement.
+See the {{% resource_link 54493b98-1a01-f569-b086-244f83bc4e9c "Assignments" %}} section for details about each requirement.

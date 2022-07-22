@@ -1,18 +1,20 @@
 ---
 content_type: page
+description: 'This section contains the video, lecture slides, readings, and study
+  questions on the topic of credit and lending. '
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Class 7: Credit & Lending'
 uid: fbd7d155-5944-ed52-8bfd-703d1de98571
 ---
-
 {{< resource 36fda459-8f19-c73e-f098-19eb34d4ddc0 >}}
 
-Lecture Slides
---------------
+## Lecture Slides
 
-[Class 7 Lecture Slides: Credit and Lending (PDF - 1.4MB)]({{< baseurl >}}/resources/mit15-s08s20_class7)
+{{% resource_link bf6652b3-20e5-2519-2082-e047279ed17d "Class 7 Lecture Slides: Credit and Lending (PDF - 1.4MB)" %}}
 
-Readings
---------
+## Readings
 
 ### Required Readings
 
@@ -20,9 +22,9 @@ Readings
 
 '[Need a loan? There's a tech company for that](https://www.nbcnews.com/tech/tech-news/need-loan-there-s-tech-company-n1079916)' Jason Abbruzzese, _NBC_ (November 11, 2019)
 
-'[Get to Know Your Marketplace Lenders](https://www.americanbanker.com/slideshow/get-to-know-your-marketplace-lenders)' _American Banker (_accessed March 25, 2020)
+'[Get to Know Your Marketplace Lenders](https://www.americanbanker.com/slideshow/get-to-know-your-marketplace-lenders)' _American Banker_ (accessed March 25, 2020)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)['Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)](https://www.experian.com/assets/consumer-information/reports/Experian_Aite_AltDataReport_Final_120418.pdf?elqTrackId=7714eff9f5204e7ca8517e8966438157&elqaid=3910&elqat=2)' Experian (December 4, 2018)
+['Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)](https://www.experian.com/assets/consumer-information/reports/Experian_Aite_AltDataReport_Final_120418.pdf?elqTrackId=7714eff9f5204e7ca8517e8966438157&elqaid=3910&elqat=2)' Experian (December 4, 2018)
 
 ### Optional Readings
 
@@ -34,9 +36,8 @@ Readings
 
 '[Peer-to-Peer Lending 101](https://www.goodfinancialcents.com/peer-to-peer-lending/)' Jeff Rose, _Good Financial Cents_ (November 20, 2019)
 
-Study Questions / Issues to Prepare
------------------------------------
+## Study Questions / Issues to Prepare
 
-1.  How have Big Tech firms positioned themselves to offer credit and lending products to consumers and businesses?
-2.  What is marketplace or peer-to-peer lending? What is point of sale lending? How might they change the provision of consumer credit and its competitive landscape?
-3.  How is so-called "Alternative Data" and machine learning changing the world of credit ratings and underwriting?
+1. How have Big Tech firms positioned themselves to offer credit and lending products to consumers and businesses?
+2. What is marketplace or peer-to-peer lending? What is point of sale lending? How might they change the provision of consumer credit and its competitive landscape?
+3. How is so-called "Alternative Data" and machine learning changing the world of credit ratings and underwriting?

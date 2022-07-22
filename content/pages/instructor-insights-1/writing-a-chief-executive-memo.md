@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'In this section, Prof. Gensler explains why one of the assignments in
+  15.S08 FinTech: Shaping the Financial World asks students to collaborate in writing
+  a memo to a CEO of a major corporation.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 title: Writing a Chief Executive Memo
 uid: 60698cf6-b1cb-cb1f-e7c6-997ba589cd49
