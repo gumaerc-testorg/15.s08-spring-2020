@@ -31,11 +31,11 @@ Permission of the instructor is required.
 
 ### Requirements Satisfied
 
-15.S08 can be applied toward a [Master’s in Finance](https://mitsloan.mit.edu/mfin) or [Master’s in Business Administration](https://mitsloan.mit.edu/mba/academics/mba-curriculum), but is not required.
+15.S08 can be applied toward a {{% resource_link "25e8d26f-0bf5-4ba9-8bd2-c69c8edc3be1" "Master’s in Finance" %}} or {{% resource_link "8cd41a39-5812-4494-b6d9-c11fc3928145" "Master’s in Business Administration" %}}, but is not required.
 
 ### Offered
 
-Different versions of _15.S08 Special Seminar in Management_ are offered several times a year, in the second half of the spring, summer, or fall term or in the January [Independent Activities Period](https://web.mit.edu/iap/).
+Different versions of _15.S08 Special Seminar in Management_ are offered several times a year, in the second half of the spring, summer, or fall term or in the January {{% resource_link "a47f4fc6-d001-49b4-8ffe-128a18398614" "Independent Activities Period" %}}.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
@@ -65,7 +65,7 @@ A mix of graduate students in Master’s of Finance and MBA programs
 
 ### Typical Student Background
 
-The finance students in the class tended to be fairly young and computer-savvy; the MBA students were a mix of traditional students, mid-career students, and [Sloan Fellows](https://mitsloan.mit.edu/mit-sloan-fellows-mba).
+The finance students in the class tended to be fairly young and computer-savvy; the MBA students were a mix of traditional students, mid-career students, and {{% resource_link "04260afa-427a-4a72-9b5c-f3dca53686fd" "Sloan Fellows" %}}.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
