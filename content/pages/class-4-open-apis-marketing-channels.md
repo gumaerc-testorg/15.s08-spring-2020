@@ -20,15 +20,15 @@ Readings
 
 ### Required Readings
 
-'[Report on open banking and application programming interfaces (APIs)](https://www.bis.org/bcbs/publ/d486.htm)' Bank of International Settlement (November 2019)
+'{{% resource_link "8da75c6a-e88d-4bff-8a3b-d01dcb3701c4" "Report on open banking and application programming interfaces (APIs)" %}}' Bank of International Settlement (November 2019)
 
-'[Fintechs next decade will look radically different](https://techcrunch.com/2019/12/22/fintechs-next-decade-will-look-radically-different/)' Nik Milanovic, _TechCrunch_ (December 22, 2019)
+'{{% resource_link "1598237c-f47d-4525-92b9-ce3506af483a" "Fintechs next decade will look radically different" %}}' Nik Milanovic, _TechCrunch_ (December 22, 2019)
 
-['RPA in Banking—Use-cases, Benefits and Steps](https://medium.com/@MarutiTech/rpa-in-banking-use-cases-benefits-and-steps-8b97312a7d4f)' Maruti Techlabs, _Medium_ Post (November 28, 2019)
+{{% resource_link "006793d3-6d5f-4fab-bd2a-d9e5754c29ba" "'RPA in Banking—Use-cases, Benefits and Steps" %}}' Maruti Techlabs, _Medium_ Post (November 28, 2019)
 
 ### Optional Reading
 
-['Pros and cons of RPA platforms vs. APIs](https://searchcio.techtarget.com/feature/Pros-and-cons-of-RPA-platforms-vs-APIs)' George Lawton, _TechTarget_ (September 5, 2019)
+{{% resource_link "434a82cb-e05f-4ef4-a9d7-72ccb0c3f44c" "'Pros and cons of RPA platforms vs. APIs" %}}' George Lawton, _TechTarget_ (September 5, 2019)
 
 Study Questions / Issues to Prepare
 -----------------------------------
