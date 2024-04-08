@@ -18,17 +18,17 @@ uid: d1137a3f-00d1-4edf-8ae8-2354d5a6780e
 
 ### Required Readings
 
-'[The economic forces driving fintech adoption across countries](https://www.bis.org/publ/work838.htm)' Jon Frost, _BIS Working Papers_ (February 4, 2020)
+'{{% resource_link "db7fde92-2ab4-4595-a2bf-280011e170a5" "The economic forces driving fintech adoption across countries" %}}' Jon Frost, _BIS Working Papers_ (February 4, 2020)
 
-'[FinTech and market structure in financial services](https://www.fsb.org/2019/02/fintech-and-market-structure-in-financial-services-market-developments-and-potential-financial-stability-implications/)' _Financial Stability Board_ (February 14, 2019)
+'{{% resource_link "88eae31e-d834-48f1-9ae7-43b7b380498b" "FinTech and market structure in financial services" %}}' _Financial Stability Board_ (February 14, 2019)
 
-'[The Future of Banking](https://www.csbs.org/newsroom/fdic-chairman-mcwilliams-future-banking)' FDIC Chair Jelena McWilliams (October 1, 2019)
+'{{% resource_link "fcfcbc8c-edf7-4bc8-9805-4b1c38ffc1c0" "The Future of Banking" %}}' FDIC Chair Jelena McWilliams (October 1, 2019)
 
 ### Optional Readings
 
-'[The banking tech trends that will dominate 2020](https://www.americanbanker.com/list/the-banking-tech-trends-that-will-dominate-2020)' _American Banker_ (January 7, 2020)
+'{{% resource_link "03cd3e04-4e15-408f-aac8-7afd6ae60421" "The banking tech trends that will dominate 2020" %}}' _American Banker_ (January 7, 2020)
 
-'[Big tech in finance: opportunities and risks](https://www.bis.org/publ/arpdf/ar2019e3.htm)' _BIS Annual Economic Report_ (June 23, 2019)
+'{{% resource_link "6b2368cc-a9e5-4272-b95a-5b4d7a51ed01" "Big tech in finance: opportunities and risks" %}}' _BIS Annual Economic Report_ (June 23, 2019)
 
 ## Study Questions / Issues to Prepare
 
