@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/fc9e44f210120f4c131c5c348b1dc8ea_59Dd5T6crKw.pdf
+file_size: 116794
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
