@@ -18,23 +18,23 @@ uid: fbd7d155-5944-ed52-8bfd-703d1de98571
 
 ### Required Readings
 
-{{% resource_link "612ca962-73bd-4db5-b399-a673ed5ef0ab" "'Apple Card: 12 Fintech Companies Driving Credit Card Innovation" %}}' Jeremy Brown, _Crunchbase_ (March 26, 2019)
+['Apple Card: 12 Fintech Companies Driving Credit Card Innovation](https://about.crunchbase.com/blog/apple-credit-card-innovation/)' Jeremy Brown, _Crunchbase_ (March 26, 2019)
 
-'{{% resource_link "c3a13236-f927-4b74-8e27-6699228e931e" "Need a loan? There's a tech company for that" %}}' Jason Abbruzzese, _NBC_ (November 11, 2019)
+'[Need a loan? There's a tech company for that](https://www.nbcnews.com/tech/tech-news/need-loan-there-s-tech-company-n1079916)' Jason Abbruzzese, _NBC_ (November 11, 2019)
 
-'{{% resource_link "e1048ae5-b427-44bf-8fe4-7601bf179d2f" "Get to Know Your Marketplace Lenders" %}}' _American Banker_ (accessed March 25, 2020)
+'[Get to Know Your Marketplace Lenders](https://www.americanbanker.com/slideshow/get-to-know-your-marketplace-lenders)' _American Banker_ (accessed March 25, 2020)
 
-{{% resource_link "da65a2b1-aa6c-4080-9a01-8a489df29e5e" "'Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)" %}}' Experian (December 4, 2018)
+['Alternative Data Across the Loan Life Cycle: How FinTech and Other Lenders Use It and Why (PDF - 2.3MB)](https://www.experian.com/assets/consumer-information/reports/Experian_Aite_AltDataReport_Final_120418.pdf?elqTrackId=7714eff9f5204e7ca8517e8966438157&elqaid=3910&elqat=2)' Experian (December 4, 2018)
 
 ### Optional Readings
 
-'{{% resource_link "ab2ab5d2-9acf-4c39-b6eb-d99099a0019b" "Tech lenders push for a piece of the coronavirus, small-business bailout" %}}' Kate Rooney, _CNBC_  (March 23, 2020)
+'[Tech lenders push for a piece of the coronavirus, small-business bailout](https://www.cnbc.com/2020/03/23/tech-lenders-push-for-a-piece-of-the-coronavirus-bailout.html)' Kate Rooney, _CNBC_  (March 23, 2020)
 
-'{{% resource_link "7134bc63-7a71-4d23-9a83-1b59cfa67ec2" "US lending at point of sale: The next frontier of growth" %}}' Puneet Dikshit, Diana Goldshtein, and Udai Kaura, McKinsey & Company (November 4, 2019)
+'[US lending at point of sale: The next frontier of growth](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/us-lending-at-point-of-sale-the-next-frontier-of-growth)' Puneet Dikshit, Diana Goldshtein, and Udai Kaura, McKinsey & Company (November 4, 2019)
 
-'{{% resource_link "9a70b47b-6178-462e-844d-d43607f13ffc" "Detroit-based mortgage giant Quicken Loans on pace to set home loan record" %}}' JC Reindl, _Detroit Free Press_ (December 11, 2019)
+'[Detroit-based mortgage giant Quicken Loans on pace to set home loan record](https://www.freep.com/story/money/business/2019/12/11/detroit-quicken-loans-sets-mortgage-volume-record/2633361001/)' JC Reindl, _Detroit Free Press_ (December 11, 2019)
 
-'{{% resource_link "39f216cf-645a-47b5-89e9-d03b0e8c7e6d" "Peer-to-Peer Lending 101" %}}' Jeff Rose, _Good Financial Cents_ (November 20, 2019)
+'[Peer-to-Peer Lending 101](https://www.goodfinancialcents.com/peer-to-peer-lending/)' Jeff Rose, _Good Financial Cents_ (November 20, 2019)
 
 ## Study Questions / Issues to Prepare
 
