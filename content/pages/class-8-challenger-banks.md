@@ -20,15 +20,15 @@ Readings
 
 ### Required Readings
 
-'{{% resource_link "e42de84c-5f2a-48b3-aee4-46e4328cacdf" "The Challenger Banks That Threaten to Disrupt Financial Institutions" %}}' Bill Streeter, _The Financial Brand_ (February 18, 2020)
+'[The Challenger Banks That Threaten to Disrupt Financial Institutions](https://thefinancialbrand.com/93135/challenger-banks-disrupt-financial-institutions-big-tech-fintech/)' Bill Streeter, _The Financial Brand_ (February 18, 2020)
 
-'{{% resource_link "09576be0-9315-4223-9042-a8764ccf920d" "Dawn of The Neobank: The Fintechs Trying to Kill the Corner Bank" %}}' Jeff Kauflin, _Forbes_ (November 4, 2019)
+'[Dawn of The Neobank: The Fintechs Trying to Kill the Corner Bank](https://www.forbes.com/sites/jeffkauflin/2019/11/04/dawn-of-the-neobank-the-fintechs-trying-to-kill-the-corner-bank/#74824be1b0f6)' Jeff Kauflin, _Forbes_ (November 4, 2019)
 
-'{{% resource_link "0003ca97-d7cb-4a52-8efc-6029cc1025f1" "2020 will be a challenging year for challenger banks" %}}' Romain Dillet, _TechCrunch_ (January 4, 2020)
+'[2020 will be a challenging year for challenger banks](https://techcrunch.com/2020/01/04/2020-will-be-a-challenging-year-for-challenger-banks/)' Romain Dillet, _TechCrunch_ (January 4, 2020)
 
 ### Optional Reading
 
-'{{% resource_link "e49802cf-e409-459f-a8f9-1c2684ad9be4" "10 Best Challenger Banks in The World" %}}' Crypterium
+'[10 Best Challenger Banks in The World](https://news.crypterium.com/10-best-challenger-banks)' Crypterium
 
 Study Questions/Issues to Prepare
 ---------------------------------

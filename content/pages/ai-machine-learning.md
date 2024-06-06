@@ -20,9 +20,9 @@ Readings
 
 ### Required Readings
 
-{{% resource_link "ce8a5e06-fca5-4037-a553-72daee0828ee" "'Artificial intelligence and machine learning in financial services" %}}' Financial Stability Board (November 1, 2017) (Pages 3–23, Executive Summary & Sections 1–3)
+['Artificial intelligence and machine learning in financial services](https://www.fsb.org/2017/11/artificial-intelligence-and-machine-learning-in-financial-service/)' Financial Stability Board (November 1, 2017) (Pages 3–23, Executive Summary & Sections 1–3)
 
-'{{% resource_link "25e0b847-1745-4001-88ee-4f9365043e11" "The Growing Impact of AI in Financial Services: Six Examples" %}}' Arthur Bachinskiy, _Medium_ (February 21 2019)
+'[The Growing Impact of AI in Financial Services: Six Examples](https://towardsdatascience.com/the-growing-impact-of-ai-in-financial-services-six-examples-da386c0301b2)' Arthur Bachinskiy, _Medium_ (February 21 2019)
 
 Study Questions / Issues to Prepare
 -----------------------------------
