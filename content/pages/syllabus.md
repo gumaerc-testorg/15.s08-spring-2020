@@ -26,7 +26,7 @@ This course is for students wishing to explore the ways in which new technologie
 COVID-19
 --------
 
-This course was a half-semester course that was taught in the second half of the Spring 2020 semester. Set to begin at the end of March 2020, this course was conducted entirely online via Zoom, as the [Covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) began in earnest in the United States.
+This course was a half-semester course that was taught in the second half of the Spring 2020 semester. Set to begin at the end of March 2020, this course was conducted entirely online via Zoom, as the {{% resource_link "05e4d296-0aa8-4b6c-b88e-fc3e625a8df7" "Covid-19 pandemic" %}} began in earnest in the United States.
 
 Calendar
 --------

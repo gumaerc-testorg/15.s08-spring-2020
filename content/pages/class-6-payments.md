@@ -18,11 +18,11 @@ Lecture Slides 
 Readings
 --------
 
-'[The Digitalization of Payments and Currency: Some Issues for Consideration](https://www.federalreserve.gov/newsevents/speech/brainard20200205a.htm)' Lael Brainard, Federal Reserve Board (February 5, 2020)
+'{{% resource_link "8733454f-9d26-43af-afa7-da0be3a65086" "The Digitalization of Payments and Currency: Some Issues for Consideration" %}}' Lael Brainard, Federal Reserve Board (February 5, 2020)
 
-'[7 Key Payments Innovations in Fintech for 2020](https://codete.com/blog/7-key-payments-innovations-in-fintech-for-2020/)' Artur Olechowski, _Codete_ (February 13, 2020)
+'{{% resource_link "3928c550-710f-427a-b017-65ced4f38c5b" "7 Key Payments Innovations in Fintech for 2020" %}}' Artur Olechowski, _Codete_ (February 13, 2020)
 
-'[9 Payment Trends That Will Shape 2020](https://home.bluesnap.com/snap-center/blog/9-payment-trends-that-will-shape-2020/)' Estelle Mense, _BlueSnap_ (December 5, 2019)
+'{{% resource_link "63eb8552-0a02-4ead-bd66-75521bf17893" "9 Payment Trends That Will Shape 2020" %}}' Estelle Mense, _BlueSnap_ (December 5, 2019)
 
 Study Questions / Issues to Prepare
 -----------------------------------

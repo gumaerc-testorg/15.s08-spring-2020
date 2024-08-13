@@ -18,13 +18,13 @@ Lecture Slides
 Readings
 --------
 
-'[‘8 top Fintech VCs discuss COVID-19 trends, signals and opportunities](https://techcrunch.com/2020/04/21/8-top-fintech-vcs-discuss-covid-19-trends-signals-and-opportunities/)’ Natasha Mascarenhas, Alex Wilhelm, and Arman Tabatabai, _TechCrunch_ (April 21, 2020)
+'{{% resource_link "dc64dba9-9d0d-41cf-acb1-b622e2ecd1e2" "‘8 top Fintech VCs discuss COVID-19 trends, signals and opportunities" %}}’ Natasha Mascarenhas, Alex Wilhelm, and Arman Tabatabai, _TechCrunch_ (April 21, 2020)
 
-'[Is the Coronavirus Killing Off Cash?](https://www.politico.com/news/magazine/2020/04/17/coronavirus-cash-economy-cashless-paper-money-business-190405?cid=apn)' Nancy Scola, _Politico_ (April 17, 2020)
+'{{% resource_link "09b1095e-1625-450a-9ffd-55588afb65a9" "Is the Coronavirus Killing Off Cash?" %}}' Nancy Scola, _Politico_ (April 17, 2020)
 
-'[Fintech firms race to plug gaps in UK’s coronavirus relief measures](https://www.cnbc.com/2020/04/23/coronavirus-fintech-firms-race-to-plug-gaps-in-uk-sme-relief-measures.html)' Ryan Browne, _CNBC_ (April 23, 2020)
+'{{% resource_link "6bfaf4a2-5225-444b-b775-c8d205310c91" "Fintech firms race to plug gaps in UK’s coronavirus relief measures" %}}' Ryan Browne, _CNBC_ (April 23, 2020)
 
-‘[7 VCs look into the future of Fintech](https://techcrunch.com/2020/04/23/7-vcs-discuss-the-future-of-fintech/)’ Alex Wilhelm, Natasha Mascarenhas, and Arman Tabatabai, _TechCrunch_ (April 23, 2020)
+‘{{% resource_link "6eaa8f90-9db5-4674-9e7f-6aeb2c37ce9f" "7 VCs look into the future of Fintech" %}}’ Alex Wilhelm, Natasha Mascarenhas, and Arman Tabatabai, _TechCrunch_ (April 23, 2020)
 
 Study Questions / Issues to Prepare
 -----------------------------------

@@ -20,17 +20,17 @@ Readings
 
 ### Required Readings
 
-'[How Robinhood Changed an Industry](https://money.usnews.com/investing/investing-101/articles/how-robinhood-changed-an-industry)' John Divine, _US News_ (October 17, 2019)
+'{{% resource_link "1f889d8d-6af9-4cbf-9917-6c27bd145340" "How Robinhood Changed an Industry" %}}' John Divine, _US News_ (October 17, 2019)
 
-'[Charles Schwab and the New Broker Wars](https://www.barrons.com/articles/who-will-win-the-new-broker-wars-51570233983?mod=hp_LEAD_1&mod=article_inline)' Daren Fonda, _Barron's_ (October 4, 2019)
+'{{% resource_link "ca5d6214-f461-466c-acda-9ffde298523d" "Charles Schwab and the New Broker Wars" %}}' Daren Fonda, _Barron's_ (October 4, 2019)
 
-'[Robo-Advisors: Product vs. Platform](https://medium.com/swlh/robo-advisors-product-vs-platform-92e3e0823b17)' Henry O’Brien, _The Startup_ (June 10, 2019)
+'{{% resource_link "05e6a7ff-958e-4f37-820a-7c196e13805a" "Robo-Advisors: Product vs. Platform" %}}' Henry O’Brien, _The Startup_ (June 10, 2019)
 
 ### Optional Readings
 
-'[The Death of Brokerage Fees Was 50 Years in the Making](https://www.bloomberg.com/opinion/articles/2020-01-03/how-nyse-went-from-quasi-cartel-to-zero-fee-stock-trading)' Stephen Mihm, _Bloomberg_ (January 3, 2020)
+'{{% resource_link "457a3dd8-1df0-4bfc-a8ed-770d712687dc" "The Death of Brokerage Fees Was 50 Years in the Making" %}}' Stephen Mihm, _Bloomberg_ (January 3, 2020)
 
-'[8 Best Robo-Advisors of 2020](https://www.thebalance.com/best-robo-advisors-4163993)', Eric Rosenberg, _The Balance_ (November 20, 2019)
+'{{% resource_link "35ccbb82-9edf-4856-bcd0-72b0b12da8dc" "8 Best Robo-Advisors of 2020" %}}', Eric Rosenberg, _The Balance_ (November 20, 2019)
 
 Study Questions / Issues to Prepare
 -----------------------------------

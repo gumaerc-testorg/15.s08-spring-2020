@@ -20,21 +20,21 @@ Readings
 
 ### Required Readings
 
-'[Quarterly InsurTech Briefing Q4 2019](https://www.willistowerswatson.com/en-CA/Insights/2020/01/quarterly-insurtech-briefing-q4-2019)', _CB Insights_ (January 2020) (excerpts only—Introduction & The Data Center Charts)
+'{{% resource_link "713eeb6b-cf90-4a5b-977c-c632e73a0c6c" "Quarterly InsurTech Briefing Q4 2019" %}}', _CB Insights_ (January 2020) (excerpts only—Introduction & The Data Center Charts)
 
-'[Three insurtech trends to watch in 2020](https://www.fintechmagazine.com/insurance/three-insurtech-trends-watch-2020)', Harry Menear, _FinTech_ (March 11, 2020)
+'{{% resource_link "a5de7ee1-efc5-4e5b-a068-9658a69b2efd" "Three insurtech trends to watch in 2020" %}}', Harry Menear, _FinTech_ (March 11, 2020)
 
-'[Fintech developments in the insurance industry—Executive Summary](https://www.bis.org/fsi/fsisummaries/fintech.htm)' Bank of International Settlement (February 28, 2019)
+'{{% resource_link "989633a0-e479-43b0-b817-ae1e770211ac" "Fintech developments in the insurance industry—Executive Summary" %}}' Bank of International Settlement (February 28, 2019)
 
-'[Why Asia is fertile new ground for the insurtech startup movement](https://techwireasia.com/2020/05/why-asia-is-fertile-new-ground-for-the-insurtech-startup-movement/)',
+'{{% resource_link "f0830549-0668-489b-929f-6f0e1dbe6553" "Why Asia is fertile new ground for the insurtech startup movement" %}}',
 
 ### Optional Readings
 
-['The Future of Insurance: Fintech 50 2020](https://www.forbes.com/sites/ashleaebeling/2020/02/12/the-future-of-insurance-fintech-50-2020/#1eb344aa21a3)', Ashlea Ebeling, _Forbes_ (February 12, 2020)
+{{% resource_link "94994745-0420-4fd1-8b03-7adbaa8b7d39" "'The Future of Insurance: Fintech 50 2020" %}}', Ashlea Ebeling, _Forbes_ (February 12, 2020)
 
-['Top 15 insurtech companies in the US](https://www.insurancebusinessmag.com/us/guides/top-15-insurtech-companies-in-the-us-210710.aspx)', Geraldine Grones, _Insurance Business News_ (January 17, 2020)
+{{% resource_link "ad065f13-cbd7-48de-9c48-e901f743846b" "'Top 15 insurtech companies in the US" %}}', Geraldine Grones, _Insurance Business News_ (January 17, 2020)
 
-'[How Insurtechs are Transforming Insurance Underwriting—7 Examples](https://insuranceblog.accenture.com/how-insurtechs-are-transforming-insurance-underwriting-7-examples)', Accenture Insurance (August 30, 2018)
+'{{% resource_link "469947ae-e715-46a8-af0b-26cd522f5606" "How Insurtechs are Transforming Insurance Underwriting—7 Examples" %}}', Accenture Insurance (August 30, 2018)
 
 Study Questions / Issues to Prepare
 -----------------------------------
