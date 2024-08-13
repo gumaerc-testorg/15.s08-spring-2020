@@ -18,11 +18,11 @@ Lecture Slides
 Readings
 --------
 
-‘[Artificial Intelligence Applications in Financial Services](https://www.oliverwyman.com/our-expertise/insights/2019/dec/artificial-intelligence-applications-in-financial-services.html)’ Oliver Wyman (December 2019) (Pages 11–30, Section on ‘How is AI Applied in Financial Services?’)
+‘{{% resource_link "7ccb2598-ab4f-4f9a-9ffc-cb94287051fc" "Artificial Intelligence Applications in Financial Services" %}}’ Oliver Wyman (December 2019) (Pages 11–30, Section on ‘How is AI Applied in Financial Services?’)
 
-‘[Artificial Intelligence & Financial Services – Fall 2019 Report’ (PDF - 2.6MB)](https://www.mayerbrown.com/-/media/files/perspectives-events/publications/2019/10/mayer-brown--ai--financial-services-symposium--thought-leadership-articles--fall-2019.pdf) Mayer Brown (October 2019) (pages 3–13, Section on ‘AI and Big Data Regulatory Risks Under Banking and Consumer Financial Laws’)
+‘{{% resource_link "43cb58d3-9742-4ffe-ab05-9c84310ce6cf" "Artificial Intelligence & Financial Services – Fall 2019 Report’ (PDF - 2.6MB)" %}} Mayer Brown (October 2019) (pages 3–13, Section on ‘AI and Big Data Regulatory Risks Under Banking and Consumer Financial Laws’)
 
-‘[Fintech: Understanding AI Use in Financial Services](https://www.stlouisfed.org/on-the-economy/2019/april/fintech-understanding-ai-financial-services)’ Julie Stackhouse, Federal Reserve Bank of St. Louis (April 29, 2019)
+‘{{% resource_link "3c111056-3623-4068-aa39-f2eca9025fb4" "Fintech: Understanding AI Use in Financial Services" %}}’ Julie Stackhouse, Federal Reserve Bank of St. Louis (April 29, 2019)
 
 Study Questions / Issues to Prepare
 -----------------------------------
