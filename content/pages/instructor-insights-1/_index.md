@@ -11,17 +11,17 @@ uid: 1b6cbc82-01e5-5ec7-1012-0787a100a6e8
 ---
 ## Instructor Insights
 
-Below, Gary Gensler describes various aspects of how he teaches _15.S08 FinTech: Shaping the Financial World_.
+Below, Gary Gensler describes various aspects of how he teaches *15.S08 FinTech: Shaping the Financial World*.
 
 {{< quote "We teach a lot more than knowledge, we teach a way of thinking and a way of analysis." "— Prof. Gary Gensler" >}}
 
-- {{% resource_link cbc918dc-4a0a-57f2-0951-a5f222bcc53d "What is FinTech?" %}}
-- {{% resource_link 2fd516e6-5f34-a33c-3940-82ebc8884456 "The Role of AI in FinTech" %}}
-- {{% resource_link 60698cf6-b1cb-cb1f-e7c6-997ba589cd49 "Writing a Chief Executive Memo" %}}
-- {{% resource_link d5f6018e-0fcd-9924-9fe1-e9bbeb88c237 "Teaching Remotely" %}}
-- {{% resource_link 0b231366-57ca-bf22-21e6-79bc652e6888 "Cultivating Professionalism" %}}
+- {{% resource_link "cbc918dc-4a0a-57f2-0951-a5f222bcc53d" "What is FinTech?" %}}
+- {{% resource_link "2fd516e6-5f34-a33c-3940-82ebc8884456" "The Role of AI in FinTech" %}}
+- {{% resource_link "60698cf6-b1cb-cb1f-e7c6-997ba589cd49" "Writing a Chief Executive Memo" %}}
+- {{% resource_link "d5f6018e-0fcd-9924-9fe1-e9bbeb88c237" "Teaching Remotely" %}}
+- {{% resource_link "0b231366-57ca-bf22-21e6-79bc652e6888" "Cultivating Professionalism" %}}
 
-{{< simplecast 6c38423f-b19c-4167-a8cd-5f1630304698 >}}
+{{< resource uuid="093b7616-2294-45d5-a843-92240d452647" >}}
 
 ## Curriculum Information
 
@@ -35,7 +35,7 @@ Permission of the instructor is required.
 
 ### Offered
 
-Different versions of _15.S08 Special Seminar in Management_ are offered several times a year, in the second half of the spring, summer, or fall term or in the January {{% resource_link "80a7eac9-73e8-4d9a-abce-ec9092d9c423" "Independent Activities Period" %}}.
+Different versions of *15.S08 Special Seminar in Management* are offered several times a year, in the second half of the spring, summer, or fall term or in the January {{% resource_link "80a7eac9-73e8-4d9a-abce-ec9092d9c423" "Independent Activities Period" %}}.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
