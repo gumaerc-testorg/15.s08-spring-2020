@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/f8ca995e782e70ab3b41640178f71a7d_LaP0Ut84GzI.srt
+file: /ol-ocw-studio-app/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/f8ca995e782e70ab3b41640178f71a7d_LaP0Ut84GzI.srt
 file_size: 115844
 file_type: application/x-subrip
 learning_resource_types: []
