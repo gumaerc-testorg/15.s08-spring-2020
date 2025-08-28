@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/e065cb494fe61c76b777a811ea20b3eb_coins.jpg
+file: /ol-ocw-studio-app/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/e065cb494fe61c76b777a811ea20b3eb_coins.jpg
 file_size: 108299
 file_type: image/jpeg
 image_metadata:
